@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [To-Do List](https://yadyvivian.github.io/TO-DO-LIST/)
 
-- 👨‍💻 All of my projects are available at [https://65c0a19d0d204c0d13d2b13b--thunderous-chimera-dddecf.netlify.app/](https://65c0a19d0d204c0d13d2b13b--thunderous-chimera-dddecf.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://65c0a19d0d204c0d13d2b13b--thunderous-chimera-dddecf.netlify.app/](https://65c0a19d0d204c0d13d2b13b--thunderous-chimera-dddecf.netlify.app/)](https://65c0a19d0d204c0d13d2b13b--vivi-develope.netlify.app/)
 
 - 💬 Ask me about **about learning**
 
